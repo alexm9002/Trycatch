@@ -1,0 +1,15 @@
+G:\Visual Studio\Trycath\Trycath\bin\Debug\net6.0\Trycath.exe
+G:\Visual Studio\Trycath\Trycath\bin\Debug\net6.0\Trycath.deps.json
+G:\Visual Studio\Trycath\Trycath\bin\Debug\net6.0\Trycath.runtimeconfig.json
+G:\Visual Studio\Trycath\Trycath\bin\Debug\net6.0\Trycath.dll
+G:\Visual Studio\Trycath\Trycath\bin\Debug\net6.0\ref\Trycath.dll
+G:\Visual Studio\Trycath\Trycath\bin\Debug\net6.0\Trycath.pdb
+G:\Visual Studio\Trycath\Trycath\obj\Debug\net6.0\Trycath.csproj.AssemblyReference.cache
+G:\Visual Studio\Trycath\Trycath\obj\Debug\net6.0\Trycath.GeneratedMSBuildEditorConfig.editorconfig
+G:\Visual Studio\Trycath\Trycath\obj\Debug\net6.0\Trycath.AssemblyInfoInputs.cache
+G:\Visual Studio\Trycath\Trycath\obj\Debug\net6.0\Trycath.AssemblyInfo.cs
+G:\Visual Studio\Trycath\Trycath\obj\Debug\net6.0\Trycath.csproj.CoreCompileInputs.cache
+G:\Visual Studio\Trycath\Trycath\obj\Debug\net6.0\Trycath.dll
+G:\Visual Studio\Trycath\Trycath\obj\Debug\net6.0\ref\Trycath.dll
+G:\Visual Studio\Trycath\Trycath\obj\Debug\net6.0\Trycath.pdb
+G:\Visual Studio\Trycath\Trycath\obj\Debug\net6.0\Trycath.genruntimeconfig.cache
